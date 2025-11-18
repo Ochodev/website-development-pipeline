@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Status: To Do",
+    "color": "d73a4a",
+    "description": "Work has not started yet"
+  },
+  {
+    "name": "Status: In Progress",
+    "color": "0075ca",
+    "description": "Work is actively being done"
+  },
+  {
+    "name": "Status: Review",
+    "color": "a2eeef",
+    "description": "Work is complete and needs review"
+  },
+  {
+    "name": "Status: Done",
+    "color": "0e8a16",
+    "description": "Work is complete and approved"
+  },
+  {
+    "name": "Status: Pending Confirmation",
+    "color": "fbca04",
+    "description": "Waiting for confirmation before proceeding"
+  },
+  {
+    "name": "Priority: Critical",
+    "color": "b60205",
+    "description": "Highest priority - must be done immediately"
+  },
+  {
+    "name": "Priority: High",
+    "color": "d93f0b",
+    "description": "High priority - important work"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "fbca04",
+    "description": "Medium priority - normal work"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "0e8a16",
+    "description": "Low priority - nice to have"
+  },
+  {
+    "name": "Project: Client Work",
+    "color": "5319e7",
+    "description": "Client project work"
+  },
+  {
+    "name": "Project: Internal",
+    "color": "1d76db",
+    "description": "Internal project or personal work"
+  },
+  {
+    "name": "Q4 2025",
+    "color": "c2e0c6",
+    "description": "Projects for Q4 2025"
+  },
+  {
+    "name": "Q1 2026",
+    "color": "bfdadc",
+    "description": "Projects for Q1 2026"
+  },
+  {
+    "name": "Q2 2026",
+    "color": "f9d0c4",
+    "description": "Projects for Q2 2026"
+  }
+]
